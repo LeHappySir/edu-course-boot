@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "aliyun",
+      "type": "com.lagou.edu.course.config.AliyunConfig",
+      "sourceType": "com.lagou.edu.course.config.AliyunConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "aliyun.access-key-id",
+      "type": "java.lang.String",
+      "sourceType": "com.lagou.edu.course.config.AliyunConfig"
+    },
+    {
+      "name": "aliyun.access-key-secret",
+      "type": "java.lang.String",
+      "sourceType": "com.lagou.edu.course.config.AliyunConfig"
+    }
+  ],
+  "hints": []
+}
